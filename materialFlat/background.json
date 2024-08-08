@@ -1,0 +1,21 @@
+{
+  "workbench.colorTheme": "Material Theme Darker",
+	"workbench.colorCustomizations": {
+		"editor.background": "#282828",
+		"sideBar.background": "#282828",
+    "panel.background": "#232323",
+		"tab.activeBackground": "#3c3c3c",
+		"breadcrumb.background": "#303030",
+		"editorLineNumber.activeForeground": "#dedede",
+		"statusBar.background": "#282828",
+		"activityBar.background": "#282828",
+		"titleBar.activeBackground": "#282828",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.inactiveBackground": "#3a3a3a",
+		"titleBar.inactiveForeground": "#d4d4d4",
+		"list.activeSelectionBackground": "#303030",
+		"list.hoverBackground": "#303030",
+		"list.inactiveSelectionBackground": "#303030",
+		"editorGutter.background": "#282828"
+	}
+}
